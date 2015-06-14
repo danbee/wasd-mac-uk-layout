@@ -13,7 +13,7 @@
    height="540"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="wasd-mac-uk-outlined.svg">
   <defs
      id="defs4">
@@ -80,15 +80,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.991236"
-     inkscape:cx="1018.4605"
-     inkscape:cy="172.36842"
+     inkscape:cx="1298.9521"
+     inkscape:cy="356.6915"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="in"
-     inkscape:window-width="2560"
-     inkscape:window-height="1345"
-     inkscape:window-x="1280"
+     inkscape:window-width="1440"
+     inkscape:window-height="808"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
@@ -4417,24 +4417,10 @@
          d="m 1523.625,440.40625 0,0.9375 11.25,0 0,-0.9375 -11.25,0 z"
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94477409px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.10000002;display:inline"
-       id="rect7119"
-       width="12.743925"
-       height="7.3235521"
-       x="1311.5609"
-       y="160.45694"
-       ry="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.10000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 1312.7385,158.42623 10.3887,11.38496"
-       id="path7125"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path7127"
-       d="m 1323.1272,158.42623 -10.3887,11.38496"
-       style="fill:none;stroke:#000000;stroke-width:1.10000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 1313.1445 158.05469 L 1312.332 158.79688 L 1313.3438 159.90625 L 1311.0117 159.90625 L 1311.0117 160.45703 L 1311.0117 168.33008 L 1313.3457 168.33008 L 1312.332 169.44141 L 1313.1445 170.18164 L 1314.834 168.33008 L 1321.0312 168.33008 L 1322.7207 170.18164 L 1323.5332 169.44141 L 1322.5195 168.33008 L 1324.8555 168.33008 L 1324.8555 159.90625 L 1322.5215 159.90625 L 1323.5332 158.79688 L 1322.7207 158.05469 L 1321.0312 159.90625 L 1314.834 159.90625 L 1313.1445 158.05469 z M 1312.1113 161.00781 L 1314.3496 161.00781 L 1317.1875 164.11914 L 1314.3496 167.23047 L 1312.1113 167.23047 L 1312.1113 161.00781 z M 1315.8398 161.00781 L 1320.0273 161.00781 L 1317.9336 163.30273 L 1315.8398 161.00781 z M 1321.5156 161.00781 L 1323.7539 161.00781 L 1323.7539 167.23047 L 1321.5156 167.23047 L 1318.6777 164.11914 L 1321.5156 161.00781 z M 1317.9336 164.93359 L 1320.0293 167.23047 L 1315.8379 167.23047 L 1317.9336 164.93359 z "
+       id="rect7119" />
     <g
        transform="matrix(1.0990319,0,0,1.100969,-138.52319,-16.454102)"
        style="font-size:14.98679829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
