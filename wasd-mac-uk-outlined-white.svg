@@ -79,17 +79,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0881976"
-     inkscape:cx="1278.8753"
-     inkscape:cy="277.8569"
+     inkscape:zoom="1.0440988"
+     inkscape:cx="956.0849"
+     inkscape:cy="267.36928"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="2289"
-     inkscape:window-height="1298"
-     inkscape:window-x="1308"
-     inkscape:window-y="41"
+     inkscape:window-width="2137"
+     inkscape:window-height="1112"
+     inkscape:window-x="1627"
+     inkscape:window-y="223"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -3405,14 +3405,6 @@
          id="path8244" />
     </g>
     <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text4479">
-      <path
-         d="m 473.84714,151.52345 -1.47705,-3.479 -0.94605,0 -1.48315,3.479 0.81177,0 1.12915,-2.69165 0.0244,0 1.12915,2.69165 0.81177,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="path8241" />
-    </g>
-    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4483">
       <path
@@ -3787,6 +3779,16 @@
          d="m 1520.8641,265.944 3.2691,0 0,-1.02356 -3.2691,0 0,-3.37219 -1.0077,0 0,3.37219 -3.2531,0 0,1.02356 3.2531,0 0,3.57056 1.0077,0 0,-3.57056 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;text-anchor:middle;fill:#ffffff"
          id="path8635" />
+    </g>
+    <g
+       id="g4277"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0,0.75,-0.75,0,738.21647,-369.12665)">
+      <path
+         id="path4279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:'SF Compact Text';-inkscape-font-specification:'SF Compact Text';text-align:center;text-anchor:middle;fill:#ffffff"
+         d="m 687.89691,355.40207 6.69678,3.79272 0,-1.34887 -5.41931,-2.99927 0,-0.0714 5.41931,-3.1897 0,-1.34888 -6.69678,4.08631 0,1.0791 z"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
