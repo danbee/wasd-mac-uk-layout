@@ -4,4 +4,4 @@ An SVG layout file for a UK Mac keyboard layout suitable for ordering from WASD 
 
 Includes some extra layers for an alternative function key, media key layout.
 
-![Preview](wasd-mac-uk-outlined.png)
+![Preview](wasd-mac-uk-preview.png)
