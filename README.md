@@ -7,3 +7,5 @@ Includes some extra layers for an alternative function key, media key layout.
 ## Preview
 
 ![Preview](wasd-mac-uk-full-tkl-preview.png)
+
+![Preview with background](wasd-mac-uk-full-tkl-preview-with-background.png)
